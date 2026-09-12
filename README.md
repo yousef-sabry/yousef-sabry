@@ -17,29 +17,43 @@
 ### 🚀 About Me
 
 - 🎓 Computer Science graduate — Menoufia University
-- 💼 Operations Specialist at **Fawry for Banking & Payment Technology Services**
-- 🌱 Self-taught frontend developer, always leveling up my engineering skills
-- 🧠 Interested in expanding beyond operations into a stronger technical track (frontend / data)
-- 🛠️ Currently building and refining my portfolio at [yousefsabry.dev](https://yousefsabry.dev)
-- ⚡ Fun fact: I enjoy turning messy, real-world workflows into clean, structured systems
+- 💼 Operations Specialist at **Fawry for Banking & Payment Technology Services** (since Feb 2025), working across banking & payment systems operations
+- 🗺️ GIS Developer — building interactive maps, dashboards, and spatial data solutions with a strong focus on problem-solving
+- 💻 Frontend Developer — self-taught, hands-on with **React**, **Next.js**, **TypeScript**, and **Redux Toolkit** to build fast, scalable interfaces
+- 🐍 Comfortable with **Python** for data processing, automation, and analysis
+- 🐍 Also work with **Python** — used it for data processing, automation scripts, and exploring data/ML tools, alongside my frontend and GIS work
+- 🌱 Constantly leveling up — always exploring new tools across frontend, GIS, and data engineering
+- 🧠 Actively working to grow beyond operations into a stronger technical track — frontend engineering, data analytics, or GIS development
+- 🛠️ Currently building and refining my portfolio at https://my-latest-portfolio-nine.vercel.app/ — a living showcase of my projects and skills
+- 🎯 Passion: turning messy, real-world workflows into clean, structured, well-engineered systems
+- 🤝 Open to collaboration on frontend, GIS, or data-driven projects
 
 ---
 
 ### 🛠️ Tech Stack
 
+<h3 align="center">💻 Frontend Core</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,vite,redux" />
 </p>
+
+<h3 align="center">🎨 Styling & UI</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass,html,mui" />
+</p>
+
+<h3 align="center">🛠️ Tools & Backend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,nodejs,git,github,docker,figma" />
+</p>
+
+<h3 align="center">📊 Data & Design</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clean_Code-2ea44f?style=for-the-badge&logo=codefactor&logoColor=white" />
 </p>
 
 ---
@@ -47,12 +61,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yousef-sabry&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousef-sabry&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yousef-sabry&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
