@@ -71,23 +71,6 @@
 
 ---
 
-### 📌 Pinned / Featured Projects
 
-Check out my [portfolio](https://yousefsabry.dev) for live demos, or browse my pinned repositories below ⬇️
-_(Pin your top 3-4 repos from your GitHub profile settings — they'll show automatically here)_
 
----
 
-### 📫 Let's Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/your-linkedin">LinkedIn</a> •
-  <a href="https://yousefsabry.dev">Portfolio</a> •
-  <a href="mailto:your-email@example.com">Email</a>
-</p>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blueviolet&style=flat)
-
-</div>
